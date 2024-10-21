@@ -1,0 +1,4 @@
+C:\Users\L00164321\source\repos\DIDEMO\DIDEMO\obj\Debug\net8.0\DIDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00164321\source\repos\DIDEMO\DIDEMO\obj\Debug\net8.0\DIDEMO.AssemblyInfoInputs.cache
+C:\Users\L00164321\source\repos\DIDEMO\DIDEMO\obj\Debug\net8.0\DIDEMO.AssemblyInfo.cs
+C:\Users\L00164321\source\repos\DIDEMO\DIDEMO\obj\Debug\net8.0\DIDEMO.csproj.CoreCompileInputs.cache
